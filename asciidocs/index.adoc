@@ -18,7 +18,7 @@ ifdef::backend-html5[]
 
 
 === Ziel
-Mithilfe des Programms kann man neue Rezepte erstellen und alle bisher erstellten Rezepte verwaltet. 
+Mithilfe des Programms kann man neue Rezepte erstellen und alle bisher erstellten Rezepte verwalten. 
 
 === Funktion
 Der User kann sich einloggen können und dann alle seine Rezepte sehen und verwalten können. Über einen Button kann er ein neues Rezept erstellen (er gibt Name, Zutaten und Zubereitug an).
