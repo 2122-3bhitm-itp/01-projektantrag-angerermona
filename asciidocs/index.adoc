@@ -1,5 +1,5 @@
-= Rezept-Management-System
-Mona Angerer
+= Projektantrag
+firstname lastname
 1.0.0, yyyy-mm-dd: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
@@ -14,10 +14,20 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== 1.1 Plan
+== Rezept-Managementsystem
 
 
-== 1.2 Technologien
+=== Funktion/Ziel
+Die Funktion meines Programms soll darin bestehen, dass Rezepte erstellt und verwaltet werden können. 
 
-== 1.3 
+
+=== Technologien
+* Java
+* JavaFX
+* Maven
+
+
+=== Motivation
+Ein Projekt erstmals mit JavaFX zu erstellen
+
 
