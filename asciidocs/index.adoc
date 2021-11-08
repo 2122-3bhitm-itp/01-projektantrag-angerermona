@@ -17,9 +17,11 @@ ifdef::backend-html5[]
 == Rezept-Managementsystem
 
 
-=== Funktion/Ziel
-Die Funktion meines Programms soll darin bestehen, dass Rezepte erstellt und verwaltet werden können. 
+=== Ziel
+Mithilfe des Programms kann man neue Rezepte erstellen und alle bisher erstellten Rezepte verwaltet. 
 
+=== Funktion
+Der User kann sich einloggen können und dann alle seine Rezepte sehen und verwalten können. Über einen Button kann er ein neues Rezept erstellen (er gibt Name, Zutaten und Zubereitug an).
 
 === Technologien
 * Java
