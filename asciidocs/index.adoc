@@ -14,16 +14,27 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Rezept-Managementsystem
+== Projektbezeichnung
+Rezapt-Managementsystem
 
+== Projektauftraggeber
+Mona Angerer
 
-=== Ziel
-Mithilfe des Programms kann man neue Rezepte erstellen und alle bisher erstellten Rezepte verwalten. 
+== Projektziel
+
+=== Zweck
+Mithilfe des Programms kann man einfach neue Rezepte erstellen und alle bisher erstellten Rezepte verwalten. 
 
 === Funktion
 Der User kann sich einloggen können und dann alle seine Rezepte sehen und verwalten können. Über einen Button kann er ein neues Rezept erstellen (er gibt Name, Zutaten und Zubereitug an).
 
-=== Technologien
+=== Kriterien
+*Funktionier das erstellen neuer Rezepte?
+*Funktioniert das verwalten der Rezepte?
+*Funktionier das anmelden und die Verknüpfung der erstellten Rezepte mit dem Benutzer?
+*Ist die Oberfläche übersichtlich und benutzerfreundlich gestaltet?
+
+== Technologien
 * Java
 * JavaFX
 * Maven
