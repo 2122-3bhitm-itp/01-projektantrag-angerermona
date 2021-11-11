@@ -39,14 +39,3 @@ Der User kann sich einloggen können und dann alle seine Rezepte sehen und verwa
 
 == Beteiligete
 
-== Technologien
-* Java
-* JavaFX
-* Maven
-
-
-== Motivation
-Ein Projekt erstmals mit JavaFX zu erstellen
-
-
-
