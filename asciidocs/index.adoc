@@ -36,6 +36,8 @@ Der User kann sich einloggen können und dann alle seine Rezepte sehen und verwa
 *Funktionier das anmelden und die Verknüpfung der erstellten Rezepte mit dem Benutzer?
 *Ist die Oberfläche übersichtlich und benutzerfreundlich gestaltet?
 
+== Beteiligete
+
 == Technologien
 * Java
 * JavaFX
