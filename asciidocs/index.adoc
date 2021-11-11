@@ -15,7 +15,7 @@ ifdef::backend-html5[]
 //toc::[]
 
 == Projektbezeichnung
-Rezapt-Managementsystem
+Rezept-Managementsystem
 
 == Projektauftraggeber
 Mona Angerer
