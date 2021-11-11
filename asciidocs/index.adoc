@@ -21,6 +21,7 @@ Rezept-Managementsystem
 Mona Angerer
 
 == Projekthintergrund
+Rezeptbücher in Papierform sind veraltet und Köche und Köchinnen wollen Ihre ganzen Rezepte einfach in digitsler Form verwalten.
 
 == Projektziel
 
