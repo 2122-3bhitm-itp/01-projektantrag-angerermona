@@ -32,10 +32,10 @@ Mithilfe des Programms kann man einfach neue Rezepte erstellen und alle bisher e
 Der User kann sich einloggen können und dann alle seine Rezepte sehen und verwalten können. Über einen Button kann er ein neues Rezept erstellen (er gibt Name, Zutaten und Zubereitug an).
 
 === Kriterien
--Funktioniert das erstellen neuer Rezepte?
--Funktioniert das verwalten der Rezepte?
--Funktioniert das anmelden und die Verknüpfung der erstellten Rezepte mit dem Benutzer?
--Ist die Oberfläche übersichtlich und benutzerfreundlich gestaltet?
+* Funktioniert das erstellen neuer Rezepte?
+* Funktioniert das verwalten der Rezepte?
+* Funktioniert das anmelden und die Verknüpfung der erstellten Rezepte mit dem Benutzer?
+* Ist die Oberfläche übersichtlich und benutzerfreundlich gestaltet?
 
 == Beteiligete
 
